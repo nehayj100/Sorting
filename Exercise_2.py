@@ -1,5 +1,9 @@
 # Python program for implementation of Quicksort Sort 
-  
+# Time Complexity : O(n^2)
+# Space Complexity : O(1)
+# Did this code successfully run on Leetcode : Yes
+# Any problem you faced while coding this : No
+
 # give you explanation for the approach
 def swap(i, j):
     t = arr[i]

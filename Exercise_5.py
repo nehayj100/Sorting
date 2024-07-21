@@ -1,4 +1,8 @@
 # Python program for implementation of Quicksort
+# Time Complexity : O(n^2)
+# Space Complexity : O(n) stack
+# Did this code successfully run on Leetcode : Yes
+# Any problem you faced while coding this : No
 
 # This function is same in both iterative and recursive
 
