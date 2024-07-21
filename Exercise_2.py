@@ -17,7 +17,7 @@ def partition(arr,low,high):
             j -= 1
         if i < j:
             arr = swap(i, j)
-    swap(pivot, j)
+    arr = swap(pivot, j)
 
     return j
   
